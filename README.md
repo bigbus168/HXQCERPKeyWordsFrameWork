@@ -1,0 +1,2 @@
+# HXQCERPKeyWordsFrameWork
+恒信汽车电子商务公司集团ERP项目关键驱动自动化测试框架
